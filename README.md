@@ -7,7 +7,7 @@
 Скріншоти:
 1. З Windows:
 ![Головна сторінка](lib/assets/screenshots/image.png)
-![Сторінка завдань та дедлайнів](lib/ssets/screenshots/image-1.png)
+![Сторінка завдань та дедлайнів](lib/assets/screenshots/image-1.png)
 ![Сторінка профілю студента](lib/assets/screenshots/image-2.png)
 ![Сторінка здоров'я](lib/assets/screenshots/image-3.png)
 2. З Android:
