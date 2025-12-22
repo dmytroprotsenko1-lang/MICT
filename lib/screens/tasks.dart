@@ -27,7 +27,6 @@ class _TasksScreenState extends State<TasksScreen> {
   final List<String> _categories = ['Навчання', 'Проєкт', 'Важливо'];
   String _selectedCategory = 'Навчання';
 
-  // Вікно дій для всього завдання
   void _showActionDialog(int index) {
     showDialog(
       context: context,
@@ -172,10 +171,9 @@ class _TasksScreenState extends State<TasksScreen> {
               side: BorderSide(color: task.color.withOpacity(0.5), width: 1),
             ),
             margin: const EdgeInsets.only(bottom: 12),
-            // Обгортаємо ListTile в InkWell для клікабельності всієї області
             child: InkWell(
               borderRadius: BorderRadius.circular(15),
-              onTap: () => _showActionDialog(index), // Тепер клікабельна вся картка
+              onTap: () => _showActionDialog(index),
               child: Padding(
                 padding: const EdgeInsets.all(12.0),
                 child: Row(
@@ -204,7 +202,6 @@ class _TasksScreenState extends State<TasksScreen> {
                       ),
                     ),
                     const SizedBox(width: 10),
-                    // Блок дедлайну
                     Container(
                       padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
                       decoration: BoxDecoration(
