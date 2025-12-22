@@ -1,16 +1,8 @@
-# flutter_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Назва проекту: Student Portal
+Опис: Дозволяє зберігати нагадування про різні події та дедлайни. Дозволяє відслідковувати прогрес по стеженню за здоров'ям під час продовжного сидіння за комп'ютером.
+Встановлення: Клонуйте програму з репозиторія та запустіть у терміналі команду <flutter run>. Далі оберіть платформу, на якій хочете запустити програму.
+Скріншоти:
+1. З Windows:
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
