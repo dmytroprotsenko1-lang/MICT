@@ -3,7 +3,7 @@
 ### Встановлення: 
 1. Клонуйте репозиторій: `git clone https://github.com/dmytroprotsenko1-lang/MICT`  
 2. Відкритйе проект у IDE вашого вибору
-3. Запустіть емулятор, або пропишіть у терміналі команду <flutter run>.
+3. Запустіть емулятор, або пропишіть у терміналі команду **flutter run**.
 ### Скріншоти:
 # 1. З Windows:
 ![Головна сторінка](lib/assets/screenshots/image.png)
@@ -16,3 +16,6 @@
 ![Сторінка профілю студента](lib/assets/screenshots/image-6.png)
 ![Сторінка здоров'я](lib/assets/screenshots/image-7.png)
 ## API: 
+    1. Flutter Material API - основний набір віджетів.
+    2. Navigator API - для навігаціїї між екранами
+    3. SystemChrome API - для блокування повороту екрану
