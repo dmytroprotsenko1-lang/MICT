@@ -10,7 +10,7 @@ class HealthScreen extends StatefulWidget {
 class _HealthScreenState extends State<HealthScreen> {
   final List<Map<String, dynamic>> _habits = [
     {'title': 'Випити воду', 'completed': false},
-    {'title': 'Вправи для очей', 'completed': false},
+    {'title': 'Виконати для очей', 'completed': false},
   ];
 
   void _addHabit() {
