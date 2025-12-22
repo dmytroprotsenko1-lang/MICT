@@ -8,7 +8,7 @@ class ProfileScreen extends StatefulWidget {
 }
 
 class _ProfileScreenState extends State<ProfileScreen> {
-  String name = "Іван Іваненко";
+  String name = "Проценко Дмитро";
   String specialty = "Computer Science";
 
   void _editProfile() {
@@ -65,7 +65,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                 Text('Спеціальність: $specialty', style: const TextStyle(color: Colors.grey)),
                 const Divider(height: 30),
                 _buildInfoRow(Icons.email, 'ivan.i@university.edu.ua'),
-                _buildInfoRow(Icons.badge, 'ID: 12345678'),
+                _buildInfoRow(Icons.badge, 'ID: 1413388'),
               ],
             ),
           ),
