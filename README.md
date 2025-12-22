@@ -6,7 +6,7 @@
 3. Запустіть емулятор, або пропишіть у терміналі команду **flutter run**.
 ## Скріншоти:
 ### З Android:
-![Головна сторінка](lib/assets/screenshots/adnroid/home_screen.png)
+![Головна сторінка](lib\assets\screenshots\android\home_screen.png)
 ![Сторінка завдань та дедлайнів](lib/assets/screenshots/android/tasks_screen.png)
 ![Сторінка профілю студента](lib/assets/screenshots/android/profile_screen.png)
 ![Сторінка здоров'я](lib/assets/screenshots/android/health_screen.png)
