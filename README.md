@@ -6,10 +6,10 @@
 3. Запустіть емулятор, або пропишіть у терміналі команду **flutter run**.
 ## Скріншоти:
 ### З Android:
-![Головна сторінка](lib/assets/screenshots/adnroid/image-4.png)
-![Сторінка завдань та дедлайнів](lib/assets/screenshots/android/image-5.png)
-![Сторінка профілю студента](lib/assets/screenshots/android/image-6.png)
-![Сторінка здоров'я](lib/assets/screenshots/android/image-7.png)
+![Головна сторінка](lib/assets/screenshots/adnroid/home_screen.png)
+![Сторінка завдань та дедлайнів](lib/assets/screenshots/android/tasks_screen.png)
+![Сторінка профілю студента](lib/assets/screenshots/android/profile_screen.png)
+![Сторінка здоров'я](lib/assets/screenshots/android/health_screen.png)
 ### Скріншоти програми з інших платформ можна знайти у `lib/assets/screenshots/<platform>`
 ## API: 
     1. Flutter Material API - основний набір віджетів.
