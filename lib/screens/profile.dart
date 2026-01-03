@@ -13,7 +13,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
   String specialty = "Штучний Інтелект";
   String email = "real.email@nure.ua";
   String studentId = "№1413388";
-  String description = "Хочу повстання машин.";
+  String description = "Спеціальна Венесуельска Операція";
 
   void _editProfile() {
     TextEditingController nameController = TextEditingController(text: name);
